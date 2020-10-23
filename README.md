@@ -4,5 +4,7 @@
 
 # Description: Type systems allow for static analysis and code generation, and # using the Apollo Tooling library lets us take advantage of this by generating the types used by our GraphQL queries, even warning us when the queries we are attempting to use reference fields incorrectly or which do not exist. 
 
+# screenshot.png is a screen shot of the application running.
+
 # > npm install
 # > npm start
